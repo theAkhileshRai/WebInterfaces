@@ -1,0 +1,26 @@
+#smallBox{
+    position:relative;
+    background-color:purple;
+    height: 50px;
+    width: 300px;
+    left:50px;
+}
+
+#mediumBox{
+    position : relative;
+    background-color:blue;
+    height: 40px;
+    width:200px;
+    top:60px;
+    left:150px;
+}
+#largeBox{
+    background-color:red;
+    position : relative;
+    height: 30px;
+    margin-top : 30px;
+    top:70px;
+    width: 100px;
+    left:250px;
+}
+
