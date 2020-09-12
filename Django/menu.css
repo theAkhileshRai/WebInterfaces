@@ -1,0 +1,10 @@
+#NavBar{
+    list-style-type:none;
+    background-color:black;
+    overflow:hidden;
+}
+li{
+    float:left;
+    padding-right: 10px;
+    color:white;
+}
