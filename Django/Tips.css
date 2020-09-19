@@ -1,0 +1,26 @@
+body{
+    background-color: #1a1a1a;
+    font-family:monospace;
+
+}
+
+.formDiv{
+    position: relative;
+    left:600px;
+    top:200px;
+    border : 2px solid #ccc;
+    text-align:center;
+    margin: 10px;
+    border-color:black;
+    padding:10px ;
+    height:400px;
+    width: 300px;
+    background-color: #ccffeb;
+    border-radius: 25px;
+
+}
+
+h4{
+    font-size:17px;
+}
+
