@@ -1,0 +1,9 @@
+$(".box").css({
+    'background-color':'pink',
+    'width':'30px',
+    'height': '40px'
+});
+
+$('#fillP').html('.css and .html');
+$('#fillP').html({'font-size':'30px'});
+
