@@ -1,0 +1,41 @@
+*,*::before,*::after{
+    box-sizing:border-box;
+}
+body{
+    padding:0;
+    margin:0;
+    background-color: #F9FCFC;
+}
+#image{
+    float:left;
+    width:25%;
+    height:auto;
+    margin-right: 10px;
+    clear:both;
+}
+#para{
+    overflow:auto;
+    font-family: Poppins,sans-serif;
+    font-size: 350%;
+    margin-left:10px;
+    display:box;
+}
+header{
+    font-family: Poppins,sans-serif;
+    font-size:5.2rem;
+    margin-bottom: 20px;
+    align-items:center;
+}
+#portfolio_name{
+    font-family: Poppins,sans-serif;
+}
+#second_layer{
+    overflow:hidden;
+
+}
+#skills{
+    float:top;
+}
+#experience{
+    float:bottom;
+}
